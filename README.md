@@ -26,15 +26,52 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
+![4OP1](https://github.com/SASIRAJ27/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113497176/3f7450f0-4f21-4e9a-848d-4d959e1fe6bb)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+### Y Axis Base :
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+In a polar 3D printer, the y-axis base is a rotating platform that controls movement along the y-axis. It enables circular or spherical motion in the x-y plane while the z-axis movement is achieved through linear motion.
+### Z-Axis Frame :
 
-## Output:
+The Z-axis frame in a polar 3D printer is the structure that controls the vertical movement of the print head or build platform. It allows for precise adjustment of the height of the printed object in the polar coordinate system.
+### Smooth Rods :
 
-### Name:
-### Register Number:
+Smooth rods in a polar 3D printer are cylindrical rods that provide stability and guidance for the movement of printer components. They support smooth and accurate rotation around the central point, enhancing the printer's performance and print quality.
+### Motors :
+
+Motors in a polar 3D printer drive the movement of various printer parts. They can be stepper motors for precise positioning or servo motors for accurate control. Linear motors may also be used for linear motion. These motors work together with the printer's electronics to enable the necessary rotations and translations during printing.
+### Extruder Supporter :
+
+The extruder supporter in a polar 3D printer is a component that holds and supports the extruder assembly. It ensures stability and proper alignment for accurate filament extrusion during the printing process.
+### Threaded Rod:
+
+Threaded rods in a polar 3D printer provide stability and controlled vertical movement along the Z-axis. They are used with nuts or couplers to adjust and position components like the build platform. They are cost-effective and essential for accurate layer-by-layer printing.
+### Y-Axis Frame :
+
+The Y-axis frame in a polar 3D printer supports and guides the horizontal movement from front to back. It provides stability and allows for precise positioning of the print head or build platform along the radial direction.
+### Motor with Gear :
+
+A motor with gear in a polar 3D printer is a combination used to provide controlled rotational motion. The motor generates the force, while the gear mechanism enhances torque or speed to drive components like the print head or build platform with precision.
+### Motor with Pulley :
+
+A motor with pulley in a polar 3D printer converts rotational motion into linear movement. The motor rotates, and the attached pulley transfers this motion to a belt or cable, allowing precise positioning of components like the print head or build platform along the radial direction.
+### Gears :
+
+Gears in a polar 3D printer transmit rotational motion between components. They can adjust speed, torque, and direction of rotation. Gears ensure smooth and accurate movement, enhancing the printer's performance and reliability.
+### Plate :
+
+In a polar 3D printer, the "plate" refers to the build plate or print bed. It is a flat surface where the printed object is created and adheres during printing. The plate provides stability and a level surface for accurate printing.
+### Extruder :
+
+The extruder in a polar 3D printer feeds, melts, and deposits the filament material for printing. It consists of a motor, filament drive, and hot end. It melts and extrudes the filament through a nozzle to create the printed object.
+### Filament :
+
+Filament in a polar 3D printer is the material used for printing. It is a thin strand supplied on a spool and is melted and deposited layer by layer to create the printed object. Different types of filament with varied properties and colors are available for different printing needs.
+![4OP2](https://github.com/SASIRAJ27/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113497176/61e71538-4ac9-4355-a16a-b7c593b76cf5)
+
+
+### Name:SASIRAJKUMAR T J
+### Register Number:212222230137
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
